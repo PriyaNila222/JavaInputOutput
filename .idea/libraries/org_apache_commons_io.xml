@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="org.apache.commons.io">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../poi-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../poi-ooxml-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../poi-ooxml-schemas-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../xmlbeans-2.6.0.jar!/" />
+      <root url="file://$PROJECT_DIR$/../org.apache.commons.io.jar" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../commons-collections4-4.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../org.apache.commons.io.jar" recursive="false" />
+  </library>
+</component>
